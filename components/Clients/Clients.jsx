@@ -25,7 +25,7 @@ const Clients = () => {
       </div>
       <div className="col-lg-2">
        <div className="client-thumb">
-        <img src="https://www.tekinspirations.com/wp-content/uploads/2022/03/cropped-tek-logo-new-e1648224691993.png" alt="" className="img-fluid" />
+        <img src="https://www.tekinspirations.com/wp-content/uploads/2022/03/cropped-tek-logo-new-e1648224691993.png" alt="" className="img-fluid" style={{background:"#235d6287"}} />
        </div>
       </div>
 {/*       <div className="col-lg-2">
