@@ -17,7 +17,7 @@ const Clients = () => {
     </div>
 
     <div className="container">
-     <div className="row clients-logo">
+     <div className="row clients-logo" style={{display:"flex",justifyContent:"center"}}>
       <div className="col-lg-2">
        <div className="client-thumb">
         <img src="images/about/mymedical-main-logo.png" alt="" className="img-fluid" />
