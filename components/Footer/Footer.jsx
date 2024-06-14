@@ -10,14 +10,14 @@ const Footer = () => {
       <div className="row align-items-center ">
        <div className="col-lg-6">
         <div className="copyright">
-         &copy; Copyright Reserved by <span>Dr.Emily</span>
+         &copy; Copyright Reserved by <span>Dr.Jeetu Nayak</span>
         </div>
        </div>
        <div className="col-lg-6">
         <div className="widget float-right mb-5 mb-lg-0">
          <ul className="list-inline footer-socials mt-4">
-          <li className="list-inline-item"><a href="#"><i className="icofont icofont-facebook"></i></a></li>
-          <li className="list-inline-item"><a href="#"><i className="icofont icofont-twitter"></i></a></li>
+{/*           <li className="list-inline-item"><a href="#"><i className="icofont icofont-facebook"></i></a></li> */}
+{/*           <li className="list-inline-item"><a href="#"><i className="icofont icofont-twitter"></i></a></li> */}
           <li className="list-inline-item"><a href="#"><i className="icofont icofont-linkedin"></i></a></li>
          </ul>
         </div>
