@@ -18,6 +18,7 @@ const Footer = () => {
          <ul className="list-inline footer-socials mt-4">
 {/*           <li className="list-inline-item"><a href="#"><i className="icofont icofont-facebook"></i></a></li> */}
 {/*           <li className="list-inline-item"><a href="#"><i className="icofont icofont-twitter"></i></a></li> */}
+          <li className="list-inline-item" >+91 7978899294</li>
           <li className="list-inline-item"><a href="#"><i className="icofont icofont-linkedin"></i></a></li>
          </ul>
         </div>
