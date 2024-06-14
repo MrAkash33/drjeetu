@@ -20,35 +20,15 @@ const Clients = () => {
      <div className="row clients-logo">
       <div className="col-lg-2">
        <div className="client-thumb">
-        <img src="images/about/1.png" alt="" className="img-fluid" />
+        <img src="http://mymedicalmate.com/assets/image/mymedical-main-logo.png" alt="" className="img-fluid" />
        </div>
       </div>
       <div className="col-lg-2">
        <div className="client-thumb">
-        <img src="images/about/2.png" alt="" className="img-fluid" />
+        <img src="https://www.tekinspirations.com/wp-content/uploads/2022/03/cropped-tek-logo-new-e1648224691993.png" alt="" className="img-fluid" />
        </div>
       </div>
-      <div className="col-lg-2">
-       <div className="client-thumb">
-        <img src="images/about/3.png" alt="" className="img-fluid" />
-       </div>
-      </div>
-      <div className="col-lg-2">
-       <div className="client-thumb">
-        <img src="images/about/4.png" alt="" className="img-fluid" />
-       </div>
-      </div>
-      <div className="col-lg-2">
-       <div className="client-thumb">
-        <img src="images/about/5.png" alt="" className="img-fluid" />
-       </div>
-      </div>
-      <div className="col-lg-2">
-       <div className="client-thumb">
-        <img src="images/about/6.png" alt="" className="img-fluid" />
-       </div>
-      </div>
-      <div className="col-lg-2">
+{/*       <div className="col-lg-2">
        <div className="client-thumb">
         <img src="images/about/3.png" alt="" className="img-fluid" />
        </div>
@@ -68,6 +48,26 @@ const Clients = () => {
         <img src="images/about/6.png" alt="" className="img-fluid" />
        </div>
       </div>
+      <div className="col-lg-2">
+       <div className="client-thumb">
+        <img src="images/about/3.png" alt="" className="img-fluid" />
+       </div>
+      </div>
+      <div className="col-lg-2">
+       <div className="client-thumb">
+        <img src="images/about/4.png" alt="" className="img-fluid" />
+       </div>
+      </div>
+      <div className="col-lg-2">
+       <div className="client-thumb">
+        <img src="images/about/5.png" alt="" className="img-fluid" />
+       </div>
+      </div> 
+       <div className="col-lg-2">
+       <div className="client-thumb">
+        <img src="images/about/6.png" alt="" className="img-fluid" />
+       </div>
+      </div> */}
      </div>
     </div>
    </section>
