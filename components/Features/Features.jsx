@@ -36,7 +36,7 @@ const Features = () => {
           <i className="icofont icofont-support"></i>
          </div>
          <span>Emegency Cases</span>
-         <h4 className="mb-3">2-990-770-5550</h4>
+         <h4 className="mb-3">+91 7978899294</h4>
          <p>Experience all-time support for emergencies. We embrace the principle of family medicine, ensuring continuous care. Connect with us for any urgent need.</p>
         </div>
        </div>
