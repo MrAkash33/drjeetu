@@ -17,7 +17,7 @@ export default function Home() {
       <Counter />
       <Services />
 {/*       <Appoinment /> */}
-      <Testimonial />
+{/*       <Testimonial /> */}
       <Clients />
     </main>
   );
