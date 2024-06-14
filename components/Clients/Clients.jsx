@@ -10,7 +10,7 @@ const Clients = () => {
        <div className="section-title text-center">
         <h2>Partners who support us</h2>
         <div className="divider mx-auto my-4"></div>
-        <p>Lets know moreel necessitatibus dolor asperiores illum possimus sint voluptates incidunt molestias nostrum laudantium. Maiores porro cumque quaerat.</p>
+        <p>Our partners provide invaluable support, fueling our mission with their resources, expertise, and commitment. Their collaboration enables us to innovate, expand our reach, and make a meaningful impact. We are grateful for their unwavering support, which empowers us to achieve our goals and drive positive change together.</p>
        </div>
       </div>
      </div>
