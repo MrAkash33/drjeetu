@@ -15,9 +15,9 @@ const About = () => {
         <p class="about-sub-heading my-2">
          In addition to my pharmacy credentials, I hold a diploma in physiotherapy from Lucknow University. This dual qualification has allowed me to approach healthcare from a holistic perspective, understanding not only the pharmacological needs of my patients but also their physical rehabilitation requirements. My education in physiotherapy has provided me with valuable insights into musculoskeletal health, enabling me to assist patients in managing pain, improving mobility, and enhancing their overall quality of life.
         </p>
-        <p class="about-sub-heading my-2">
+{/*         <p class="about-sub-heading my-2">
          My professional experience is equally diverse and enriching. I have served as a physician in the government sector at Rourkela, where I gained extensive experience in diagnosing and treating a variety of health conditions. This role has been instrumental in honing my clinical skills, allowing me to work with a wide range of patients and medical conditions. My responsibilities included conducting thorough medical examinations, prescribing appropriate medications, and developing comprehensive treatment plans tailored to individual patient needs. My time in this role has taught me the importance of patient-centered care and the impact of empathy and effective communication in healthcare.
-        </p>
+        </p> */}
         <p class="about-sub-heading my-2">
          Over the past three years, I have specialized further in the field of medicine, focusing on providing holistic and integrative care. My background in pharmacy and physiotherapy allows me to offer a unique blend of treatments that address both the chemical and physical aspects of health. I am adept at managing chronic conditions, advising on medication management, and supporting patients through rehabilitation processes.
         </p>
