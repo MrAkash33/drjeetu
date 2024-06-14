@@ -20,7 +20,7 @@ const Clients = () => {
      <div className="row clients-logo">
       <div className="col-lg-2">
        <div className="client-thumb">
-        <img src="images/about/1.png" alt="" className="img-fluid" />
+        <img src="images/about/mymedical-main-logo.png" alt="" className="img-fluid" />
        </div>
       </div>
       <div className="col-lg-2">
