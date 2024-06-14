@@ -16,9 +16,9 @@ export default function Home() {
       <About />
       <Counter />
       <Services />
-      <Appoinment />
-      {/* <Testimonial />
-      <Clients /> */}
+{/*       <Appoinment /> */}
+      <Testimonial />
+      <Clients />
     </main>
   );
 }
